@@ -1,0 +1,16 @@
+.body{
+    justify-content: center;
+    display: flex;
+    width: 100px;
+    align-items: center;
+}
+
+
+.container-header{
+    background-color: rgb(207, 207, 216);
+    align-items: center;
+    justify-content: center;
+    width: 220px;
+}
+
+
